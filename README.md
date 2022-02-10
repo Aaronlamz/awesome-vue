@@ -621,7 +621,7 @@
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 - [Vue Todo PWA](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
-- [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
+- [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.`
 - [Vue Word Game](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
 - [Coinchartsvue](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 - [Vue 3 Shopping Cart](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
@@ -2918,6 +2918,7 @@ _Internationalization / L10n / localization / translation_
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 - [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 - [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
+- [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 
 #### Custom Events
 
